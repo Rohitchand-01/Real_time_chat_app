@@ -11,8 +11,7 @@ const App = () => {
         <Sidebar />
         <Navbar />
       </div>
-      <div className='flex w-full'>
-
+      <div className='flex w-full h-screen'>
         <Left />
         <Right />
       </div>

@@ -7,7 +7,7 @@ import setting from '../assets/setting.png';
 
 const Sidebar = () => {
   return (
-    <div className='w-[5%] h-full top-0 fixed  bg-indigo-600'>
+    <div className='w-[5%] h-full top-0 fixed  bg-indigo-500'>
       <div className='flex flex-col p-3'>
         <img className='mb-20 w-[50px]' src={power} alt="" />
         <img className='mb-4 w-[48px]' src={chat} alt="" />
